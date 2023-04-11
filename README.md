@@ -1,6 +1,7 @@
 # gmail_login
 
-A new Flutter project.
+
+A new Flutter project. Informative and well commented project.
 
 ## Getting Started
 
